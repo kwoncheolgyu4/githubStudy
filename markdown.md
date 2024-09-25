@@ -104,4 +104,4 @@
 
 [배지 추가2](https://shields.io/)
 
-<img src="https://img.shields.io/badge/gitbut-black?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/gitbut-black?style=for-the-badge&logo=gitgit&logoColor=white">
